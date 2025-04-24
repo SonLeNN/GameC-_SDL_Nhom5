@@ -14,6 +14,12 @@ x64/
 
 # System files
 desktop.ini
+Thumbs.db
 
 # Project files
 *.txt.txt
+*.bak
+
+# Compiled libraries (keep only the necessary DLLs)
+SDL2_lib/Dll/
+SDL2_lib/*/lib/
