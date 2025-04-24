@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.obj
+*.log
+
+# System files
+desktop.ini
+
+# Project files
+*.txt.txt
